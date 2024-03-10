@@ -1,2 +1,2 @@
 # expense-tracker-main-1-
-new projwct
+new project.
